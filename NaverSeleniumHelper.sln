@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaverSeleniumHelper", "NaverSeleniumHelper.csproj", "{4514F33E-DFF4-4AE6-8158-6D45FC94EF8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4514F33E-DFF4-4AE6-8158-6D45FC94EF8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4514F33E-DFF4-4AE6-8158-6D45FC94EF8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4514F33E-DFF4-4AE6-8158-6D45FC94EF8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4514F33E-DFF4-4AE6-8158-6D45FC94EF8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87DA7AD4-2D8C-4629-A618-CE72AAF71B02}
+	EndGlobalSection
+EndGlobal
